@@ -1,0 +1,11 @@
+{
+	"username":"epiz_28872307",
+	"site_name":"SkiTransfer",
+	"Dependencies":{
+		"bootstrap":"latest",
+		"fontawesome":"latest",
+		"ajax":"latest"
+	},
+	"author":"Okeke Divine",
+	"password":"null"
+}
